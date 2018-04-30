@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         fab2.setScaleX(0);
         fab2.setScaleY(0);
 
+
         fab3.setScaleX(0);
         fab3.setScaleY(0);
 
