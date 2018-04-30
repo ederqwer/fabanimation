@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         fab1 = findViewById(R.id.fawater);
         fab2 = findViewById(R.id.faapple);
         fab3 = findViewById(R.id.farun);
